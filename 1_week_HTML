@@ -1,0 +1,15 @@
+<h2 id="title_ss">1주차 : HTML의 기본</h2>
+<div class="video">
+    <div class="video-container">
+        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/videoseries?list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
+            <div id="ans">
+                <div>
+                    설명 : WEB1 - 15 까지 완강 해주세요.
+                </div>
+                <div>
+                    과제 : 1주차 과제는 없습니다.
+                </div>
+            </div>
+                

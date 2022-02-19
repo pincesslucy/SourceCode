@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "..\\web"
+		},
+		{
+			"path": "..\\nodejs"
+		},
+		{
+			"path": "..\\Quiz"
+		},
+		{
+			"path": "..\\..\\startbootstrap-shop-homepage-gh-pages"
+		},
+		{
+			"path": "..\\web1_html_internet-master"
+		},
+		{
+			"path": "..\\수업\\jsobject"
+		},
+		{
+			"path": "..\\수업\\react-app"
+		},
+		{
+			"path": "..\\수강신청클론"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

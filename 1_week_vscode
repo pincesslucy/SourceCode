@@ -1,0 +1,13 @@
+<h2 id="title_ss">1주차 : vscode 설치법</h2>
+<div id="study_btn_div">
+    <button id ="study_btn" onclick="window.open('https://blog.naver.com/sucoding/222034865884')">학습 링크</button >
+</div>
+            <div id="ans">
+                <div>
+                    설명 : 없음
+                </div>
+                <div>
+                    과제 : 1주차 과제는 없습니다.
+                </div>
+            </div>
+                

@@ -1,0 +1,12 @@
+<h2 id="title_ss">3~5주차 : 자바스크립트의 기본</h2>
+<div id="study_btn_div">
+    <button id ="study_btn" onclick="window.open('https://nomadcoders.co/javascript-for-beginners')">학습 링크</button >
+</div>
+            <div id="ans">
+                <div>
+                    설명 : 완강
+                </div>
+                <div>
+                    과제 : 학습한 화면을 css로 자신만의 스타일로 꾸며서 deploy후 제출
+                </div>
+            </div>

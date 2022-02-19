@@ -1,0 +1,118 @@
+@font-face {
+    font-family: 'EliceDigitalBaeum_Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/EliceDigitalBaeum_Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+.notosanskr * { 
+ font-family: 'Noto Sans KR', sans-serif;
+}
+
+#title_t {
+    font-family: 'EliceDigitalBaeum_Bold';
+    text-align: center;
+    font-size: 80px;
+    margin-top: 25%;
+}
+#title_s {
+    font-family: 'EliceDigitalBaeum_Bold';
+    text-align: center;
+    font-size: 70px;
+    margin-top: 20px;
+    color : black;
+}
+#title_ss {
+    font-family: 'EliceDigitalBaeum_Bold';
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+    color : black;
+}
+#pass {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.video {
+    width: 100%;
+    max-width: 900px;
+    margin: 30px auto;
+    background-color: #f0f0f0;
+    padding: 30px;
+    box-sizing: border-box;
+    box-shadow: 0px 5px 30px rgb(48, 48, 48);
+    border-radius: 35px;
+}
+   
+.video-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding-top: 50%;
+}
+   
+iframe {
+    z-index: 1;
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+#ans {
+    font-family: 'EliceDigitalBaeum_Bold';
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+}
+#study_btn_div{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+#study_btn {
+    font-family: 'EliceDigitalBaeum_Bold';
+    font-size: 50px;
+    text-align: center;
+    padding: 15px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 400px;
+    height: 120px;
+}
+#study_btn:hover{
+    background-color: black;
+    color: white;
+}
+#button_class {
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+footer {
+    width: 100%;
+    height: 30px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    color: grey;
+}
+
+#main_form {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
