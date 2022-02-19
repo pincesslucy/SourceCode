@@ -116,3 +116,7 @@ footer {
     display: flex;
     justify-content: center;
 }
+
+#col-auto {
+    color: white;
+}
