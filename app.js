@@ -10,7 +10,7 @@ function next_page() {
     if( p1 != 2627 ) {
         alert("비밀번호불일치");
     } else{
-        location.href="1_week.html";
+        location.href="mainhome.html";
     }
 
 }

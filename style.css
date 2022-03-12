@@ -79,6 +79,11 @@ iframe {
     justify-content: center;
     margin-top: 30px;
 }
+#study_btn_div-1{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
 #study_btn {
     font-family: 'EliceDigitalBaeum_Bold';
     font-size: 50px;
@@ -117,6 +122,60 @@ footer {
     justify-content: center;
 }
 
-.col-auto {
-    color: white;
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width : 100px;
+    height: auto;
+    font-family: 'EliceDigitalBaeum_Bold';
 }
+th, td {
+    padding: 20px;
+    font-family: 'EliceDigitalBaeum_Bold';
+}
+th {
+    text-align: center;
+    font-family: 'EliceDigitalBaeum_Bold';
+}
+#title_cal {
+    text-align: center;
+    font-family: 'EliceDigitalBaeum_Bold';
+}
+#table_1 {
+    margin:0 auto;
+    width: 800px;
+}
+
+@media (max-width: 800px) {
+    table, th, td {
+        border: 2px solid black;
+        border-collapse: collapse;
+        text-align: center;
+        width : 100px;
+        font-family: 'EliceDigitalBaeum_Bold';
+    }
+    #table_1 {
+        margin:0 auto;
+        width: 100px;
+        height: 100px;
+    }
+    
+    }
+@media (max-width: 600px) {
+    table, th, td {
+        font-size: 9px;
+        border: 2px solid black;
+        border-collapse: collapse;
+        text-align: center;
+        width : 100px;
+        height: 10px;
+        font-family: 'EliceDigitalBaeum_Bold';
+    }
+    #table_1 {
+        margin:0 auto;
+        width: 100px;
+        height: 100px;
+    }
+    
+    }
